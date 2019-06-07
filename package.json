@@ -18,5 +18,6 @@
   "homepage": "https://github.com/bart5/versionReleaseTest#readme",
   "devDependencies": {
     "release-it": "^12.3.0"
-  }
+  },
+  "version": "2.0.0"
 }

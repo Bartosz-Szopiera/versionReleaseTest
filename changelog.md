@@ -8,6 +8,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ### Added
 Changelog
+Modified changelog just before release
 
 ### Changed
 Allowe release-it to create releases on gh

@@ -2,8 +2,8 @@
   "hooks": {},
   "git": {
     "changelog": "git log --pretty=format:\"* %s (%h)\" ${latestTag}...HEAD",
-    "requireCleanWorkingDir": true,
-    "requireUpstream": true,
+    "requireCleanWorkingDir": false,
+    "requireUpstream": false,
     "requireCommits": false,
     "addUntrackedFiles": false,
     "commit": true,
@@ -24,7 +24,7 @@
     "otp": null
   },
   "github": {
-    "release": false,
+    "release": true,
     "releaseName": "Release ${version}",
     "releaseNotes": "'Some hardcoded release notes \n Second line to check syntax'",
     "preRelease": false,

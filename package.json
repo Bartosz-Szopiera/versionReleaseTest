@@ -1,0 +1,22 @@
+{
+  "name": "versionreleasetest",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "release-it"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bart5/versionReleaseTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bart5/versionReleaseTest/issues"
+  },
+  "homepage": "https://github.com/bart5/versionReleaseTest#readme",
+  "devDependencies": {
+    "release-it": "^12.3.0"
+  }
+}

@@ -1,0 +1,12 @@
+# List of controller API urls to try to connect to.
+
+apis = [
+  "[protocol]//[hostname]:5000"
+  # "https://100.25.228.115:8000" # AWS controller address
+  # "https://localhost:9090" # Local docker setup TSA-1095
+  # "http://10.95.30.50" # UI Address
+  # "https://dellr230c.sfguest.lan:8000" # controller address
+  # "https://100.25.228.115:8000" # AWS controller address
+]
+
+uiVersion = '9'

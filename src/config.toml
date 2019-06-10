@@ -9,4 +9,4 @@ apis = [
   # "https://100.25.228.115:8000" # AWS controller address
 ]
 
-uiVersion = '9'
+uiVersion = '4'
